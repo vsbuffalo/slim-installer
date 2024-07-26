@@ -1,4 +1,4 @@
-# SLiM Installer
+# SLiM Installer 🚀
 
 Welcome to the SLiM Installer, your friendly neighborhood tool for getting SLiM
 up and running with minimal fuss. Cooked up by a human-AI duo, this script is
